@@ -13,5 +13,5 @@
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **IBM** | Technology Engineer Intern 🛂 | Multiple | <a href="https://careers.ibm.com/job/18918106/technology-engineer-intern-2024-remote/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 17 |
-| **Lawrence
+| **Microsoft** | Product Manager/Technical Product Manager Intern 🛂 | Multiple | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+
