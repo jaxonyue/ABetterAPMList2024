@@ -7,7 +7,7 @@
  - 🔒 - Internship application is closed
  - 🤰 - Need more information 
 
-> This README file is for **2024 summer internships only**
+> This README file is for **2024 PM Full-time Positions only**
 
 [⬇️ Jump to bottom ⬇️]()
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -34,7 +34,7 @@
 | **Lenovo🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
 | **LinkedIn🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
 | **Mastercard🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
-| **Microsoft** | Product Manager Intern/Technical Product Manager Intern | Multiple | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
+| **Microsoft🤰** | Product Manager Intern/Technical Product Manager Intern | Multiple | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 15 |
 | **Nvidia🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
 | **Oracle🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
 | **PlayStation🤰** | TBD | TBD | <a href="https://jobs.careers.microsoft.com/global/en/job/1605913"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | TBD |
